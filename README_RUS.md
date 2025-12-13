@@ -1,5 +1,7 @@
 # Класс VBA TextBox Masks
 
+**Русский** | [English](README.md) | [UserForms-Class-ALL](https://github.com/vbatools/UserForms-Class-ALL/blob/main/README_RUS.md)
+
 ![Демонстрация проекта](User_Forms.png)
 
 **clsTextboxMask** - это мощный класс для VBA, который позволяет создавать текстовые поля с масками ввода в Excel и других приложениях Office. Он обеспечивает валидацию ввода, отображение плейсхолдеров и визуальное указание статуса заполнения поля.
