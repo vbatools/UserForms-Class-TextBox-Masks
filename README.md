@@ -1,6 +1,6 @@
 # VBA TextBox Masks Class
 
-**English** | [Русский](README_RUS.md) | [UserForms-Class-ALL](https://github.com/vbatools/UserForms-Class-ALL/)
+**English** | [Русский](README_RUS.md) | [UserForms-Class-ALL](https://github.com/vbatools/UserForms-Class-TextBox-Masks-VBA/tree/main)
 
 ![Project Demo](User_Forms.png)
 
