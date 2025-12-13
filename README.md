@@ -2,9 +2,9 @@
 
 **English** | [Русский](README_RUS.md) | [UserForms-Class-ALL](https://github.com/vbatools/UserForms-Class-ALL/)
 
-![Project Demo](User_Forms.png)
-
 **clsTextboxMask** is a powerful VBA class that allows creating textboxes with input masks in Excel and other Office applications. It provides input validation, placeholder display, and visual indication of field fill status.
+
+![Project Demo](User_Forms.png)
 
 ## Table of Contents
 1. [Features](#features)
